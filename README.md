@@ -1,11 +1,11 @@
-# java-Project-Student-management-system
+# java-Project-Employee-management-system
 
 
-It consists of 4 options - Add studuent
-update student
-delete student
-view student - with validations
+It consists of 4 options - Add employee
+update employee
+delete employee
+view employee - with validations
 
-Music is played after adding/updating/deleting student.
+Music is played after adding/updating/deleting employee.
 Hibernate framework is used in this project.
 
